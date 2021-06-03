@@ -1,4 +1,9 @@
-### Hi there 👋
+### Ahoy!
+
+I'm Chris Westra. I live in Columbus, Ohio.  I currently work at GitHub.
+
+In my spare time you might find me playing fiddle with [The Goldsberrys](https://open.spotify.com/artist/7078pnO4Aatbwwbk0N0n3p) or doing
+something else music-related.
 
 <!--
 **Bestra/bestra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
